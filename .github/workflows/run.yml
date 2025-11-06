@@ -17,5 +17,5 @@ jobs:
       run: pip install requests
 
     - name: Run the script
-      run: python script.py
+      run: python main.py
 
